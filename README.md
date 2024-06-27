@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a software developer coupling the problem-solving skills of a Chemical Engineer with the growth-mindset of a professional cricketer. My interest in technology became a passion when I learnt to harness the power of data to help uncover cricketing talent from non-traditional pathways. Having solidified my coding fundamentals with a Makers Academy Bootcamp and consolidated with an internship at Onyx Insight, I am raring to use my skills to help teammates and clients pursue their passion.
+
+
 <!--
 **leatheronwillow/leatheronwillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
